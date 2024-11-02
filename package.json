@@ -10,10 +10,8 @@
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
     "sass": "^1.77.2",
-<<<<<<< HEAD
-=======
+
     "styled-components": "^6.1.11",
->>>>>>> 6e059906d08b015826817ec88a9c89b5109e7094
     "web-vitals": "^2.1.4"
   },
   "scripts": {
